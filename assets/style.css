@@ -1,0 +1,21 @@
+.main {
+    background-color: #0f172a;
+}
+
+.block-container{
+    padding-top:2rem;
+}
+
+h1,h2,h3{
+    color:white;
+}
+
+.stMetric{
+    background-color:#1e293b;
+    padding:15px;
+    border-radius:10px;
+}
+
+footer{
+    visibility:hidden;
+}
